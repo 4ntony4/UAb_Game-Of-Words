@@ -1,0 +1,37 @@
+Atletismo
+Badminton
+Basquetebol
+Boxe
+Canoagem, slalom
+Canoagem, velocidade
+Ciclismo, BMX
+Ciclismo, estrada
+Ciclismo, mountain bike
+Ciclismo, pista
+Esgrima
+Futebol
+Ginástica artística
+Ginástica rítmica
+Ginástica trampolim
+Halterofilismo
+Handebol
+Hipismo
+Hóquei sobre grama
+Judô
+Lutas
+Nado sincronizado
+Natação
+Pentatlo moderno
+Polo aquático
+Remo
+Saltos ornamentais
+Taekwondo
+Tênis
+Tênis de mesa
+Tiro
+Tiro com arco
+Triatlo
+Vela
+Voleibol - Praia
+Voleibol - Quadra
+
