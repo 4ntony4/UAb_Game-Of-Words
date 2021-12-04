@@ -157,5 +157,5 @@ Exemplo de Saída:
     alineaX < input.txt
 
 
-## Execução no Replit
+## <a href="https://replit.com/"><img src="img/replit_logo.svg" alt="replit_logo" width="35"></a> Replit
 Run it on Replit [here](https://replit.com/@DiogoAntao/UAbgameOfWords).
