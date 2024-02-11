@@ -1,6 +1,6 @@
 # Game of Words
 
-[![Replit Fork and Run](https://img.shields.io/badge/Replit-Ready_to_Run-informational?logo=replit&labelColor=white)](https://replit.com/@DiogoAntao/UAb-Game-Of-Words)
+[![Replit Fork & Run](https://img.shields.io/badge/Replit-Ready_to_Run-informational?logo=replit&labelColor=white)](https://replit.com/@DiogoAntao/UAb-Game-Of-Words)
 
 [EN] This project was made under the Curricular Unit of **Introduction to Programming** in the Computer Science and Engineering Bachelor Program of Universidade Aberta, academic year of 2018-19.
 
